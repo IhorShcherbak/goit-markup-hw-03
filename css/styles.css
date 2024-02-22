@@ -113,12 +113,8 @@ font-family: "Raleway", sans-serif;
 }
 .hero{
     background-color: #2e2f42;
-}
-.hero-container {
     padding-top: 188px;
-    padding-bottom: 188px;
-       
-       
+    padding-bottom: 188px; 
 }
 .main-title {
     max-width: 496px;
@@ -295,8 +291,8 @@ font-family: "Raleway", sans-serif;
         letter-spacing: 0.03em;
         text-transform: uppercase;
         color: #4d5ae5
-        display: inline-block;
         margin-bottom: 16px;
+        display: inline-block;
 }
 .logo-footer-color {
     color: #f4f4fd
