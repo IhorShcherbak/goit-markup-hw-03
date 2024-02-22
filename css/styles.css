@@ -269,9 +269,6 @@ font-family: "Raleway", sans-serif;
 }
 .our-portfolio-list-item {
     width: calc((100 - 2 * 24px) / 3);
-    
-.our-portfolio-list-img {
-    margin-bottom: 32px;
 }
 .our-portfolio-list-title {
         font-weight: 500;
